@@ -42,7 +42,7 @@ The working directory within the container image is `/ovftool`.
 
 Any commands that read file(s) will expect the file to exist in that directory.
 
-Any commands that write file(s) will write a file in that directory.
+Any commands that write file(s) will write to that directory.
 
 You can mount any local directory to `/ovftool` by including it as a volume when running the container image, for example, `-v $HOME/ovftool:/ovftool`.
 
