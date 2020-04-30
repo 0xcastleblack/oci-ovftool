@@ -16,6 +16,8 @@
 #
 -->
 
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+
 # Containerized Open Virtualization Format Tool
 
 This is a [Open Container Initiative (OCI)](https://www.opencontainers.org/) container image for the [Open Virtualization Format Tool (ovftool)](https://code.vmware.com/tool/ovf).
