@@ -30,7 +30,7 @@ This project is not affiliated with [Open Container Initiative (OCI)](https://ww
 
 [Quay.io](https://quay.io/repository/0xcastleblack/ovftool)
 
-[Docker Hub](https://hub.docker.com/repository/docker/0xcastleblack/ovftool)
+[Docker Hub](https://hub.docker.com/r/0xcastleblack/ovftool)
 
 ## Assumptions
 
